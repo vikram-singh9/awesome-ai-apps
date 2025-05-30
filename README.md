@@ -66,7 +66,7 @@ From simple chatbots and MCP examples to advance AI Agents, this repository serv
    cd awesome-ai-apps/starter_ai_agents/agno_starter
    ```
 
-3. **Install the required dependencies**
+3. **Install the required dependencies**j
 
    ```bash
    pip install -r requirements.txt
