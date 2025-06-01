@@ -1,7 +1,7 @@
 # Awesome AI Apps
 
 ![Banner](/assets/banner.png)
-
+b
 Powered by [Nebius AI Studio](https://dub.sh/AIStudio) - Your one-stop platform for building and deploying AI applications.
 
 A comprehensive collection of practical examples, tutorials and recipes showcasing how to build powerful LLM-powered applications using various frameworks and tools.
